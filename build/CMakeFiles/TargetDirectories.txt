@@ -1,0 +1,3 @@
+/home/jc/Workspaces/terminal_pong/build/CMakeFiles/main.dir
+/home/jc/Workspaces/terminal_pong/build/CMakeFiles/edit_cache.dir
+/home/jc/Workspaces/terminal_pong/build/CMakeFiles/rebuild_cache.dir
